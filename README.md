@@ -74,6 +74,6 @@
 +  Test the Connection using Private IP
 +  Lab - Deletion of the client VPN endpoint
 +  Resume Points
-+  Q/A
++  Q/A..
 
 #### Note: The workshop will be interactive, and participants are encouraged to ask questions and engage in hands-on labs to reinforce their learning throughout the program.
